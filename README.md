@@ -19,3 +19,6 @@ A poll:
 
 Admin's home page:
 ![image](https://user-images.githubusercontent.com/99740967/195368754-3bebb0e7-7829-4dbb-8813-676c20cc29c8.png)
+
+The Questions section in abmin site:
+![image](https://user-images.githubusercontent.com/99740967/195372244-2d84fc5f-4a62-4296-b24d-29cb85626591.png)
